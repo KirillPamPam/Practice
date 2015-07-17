@@ -1,3 +1,6 @@
+import java.util.*;
+import java.io.*;
+
 public class Point {
     private ArrayList<PointPosition> positions = new ArrayList<>();
     private InputStream is = MainPoint.class.getResourceAsStream("/coordinates.txt");
