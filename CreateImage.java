@@ -1,3 +1,7 @@
+import java.awt.*;
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+
 public class CreateImage {
     private int width, height;
     private BufferedImage bi;
