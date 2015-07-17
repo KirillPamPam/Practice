@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class MainPoint {
     private static Point point = new Point();
     private static Scanner sc = new Scanner(System.in);
